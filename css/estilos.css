@@ -1,0 +1,44 @@
+
+		*{
+			margin:0;
+			padding:0;
+		}
+		body{
+			background: linear-gradient(rgb(247, 241, 241),rgb(30%, 70%, 0%), rgb(60%, 100%, 0%),rgb(43, 34, 34));
+			 text-align: center;
+			 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+			 font-size: 40px;
+		}
+		
+		.uwu{
+			margin-left: auto;
+			margin-right: auto;
+		
+			background-color: green;
+
+
+			height: 50px;
+			width: 300px;
+			font-size: 40px;
+			font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+		}
+
+		.link{
+			background: green;
+			color: black;
+
+		}
+
+		.granlink{
+			text-decoration: none;
+			
+			
+		}
+
+		.cond{
+			font-size: 20px;
+			font-family: Arial, Helvetica, sans-serif;
+			color: white;
+		}
+		
+	
